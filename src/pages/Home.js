@@ -8,7 +8,6 @@ const Home = () => {
       <Navigation />
       <Logo />
       <Countries />
-      <h1>SAlut</h1>
     </div>
   );
 };
